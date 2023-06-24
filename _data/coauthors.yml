@@ -1,34 +1,27 @@
-"Adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"Brie":
+  - firstname: ["David", "D."]
+    url: https://www.researchgate.net/profile/David-Brie
 
-"Podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"Usevich":
+  - firstname: ["Konstantin", "K."]
+    url: http://w3.cran.univ-lorraine.fr/konstantin.usevich/
 
-"Rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"Harlé":
+  - firstname: ["Guillaume", "G."]
+    url: http://www.cran.univ-lorraine.fr/detailindividupublic.php?appel=annuaire&codetheme=&codeindividu=02044&codelangue=fr
 
-"Bach": 
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"Notarantonio": 
+  - firstname: ["Anne-Béatrice", "A.-B."]
+    url: https://fr.linkedin.com/in/anne-béatrice-notarantonio-b9a636116
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"Grandemange":
+  - firstname: ["Stéphanie", "S."]
+    url: https://www.canceropole-est.org/la-recherche/annuaire-du-canceropole-est/personnes/detail?id=3263
 
-"Przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+"D'Aveni":
+  - firstname: ["Maud", "M."]
+    url: https://www.canceropole-est.org/la-recherche/annuaire-du-canceropole-est/personnes/detail?id=3360
 
-"Schrödinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
-
-"Lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
-
-"Planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"Rubio":
+  - firstname: ["Marie-Thérèse", "M.-T.]
+    url: https://www.canceropole-est.org/la-recherche/annuaire-du-canceropole-est/personnes/detail?id=3188
