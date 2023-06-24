@@ -11,22 +11,11 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: PhD (ongoing)
+      institution: Université de Lorraine, Nancy, France
+      year: 2020-2023
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+        - Estimation of high dimensional probability density functions with low rank-tensors models: Application to cancer cell characterization
 
 - title: Experience
   type: time_table
