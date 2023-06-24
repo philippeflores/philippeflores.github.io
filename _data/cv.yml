@@ -12,12 +12,12 @@
   type: time_table
   contents:
     - title: PhD (ongoing)
-      institution: Université de Lorraine, Nancy, France
+      institution: "Estimation of high dimensional probability density functions with low rank-tensors models: Application to cancer cell characterization"
       year: 2020-2023
       description:
-        - "Estimation of high dimensional probability density functions with low rank-tensors models: Application to cancer cell characterization"
         - "Supervised by David Brie and Konstantin Usevich"
         - "Laboratory: CRAN, Department: BioSis, Team: SiMul"
+        - "Université de Lorraine, Nancy, France"
 
 - title: Experience
   type: time_table
