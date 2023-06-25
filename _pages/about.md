@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. CRAN. Université de Lorraine. Nancy. France.
+subtitle: CRAN. Université de Lorraine. Nancy. France.
 
 profile:
   align: right
