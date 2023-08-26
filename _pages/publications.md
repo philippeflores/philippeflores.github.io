@@ -3,7 +3,7 @@ layout: page
 permalink: /publications/
 title: publications
 description: Please do not hesitate to contact me by e-mail if you want to discuss on any of my publications.
-years: [2022, 2023]
+years: [2023, 2022]
 nav: true
 nav_order: 1
 ---
