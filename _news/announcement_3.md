@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2022-08-22 14:00:00-0400
 inline: true
 related_posts: true
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+Visit of the Department of Mathematics at University of British Columbia (UBC) in Vancouver, Canada.
