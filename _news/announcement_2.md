@@ -5,4 +5,4 @@ inline: true
 related_posts: true
 ---
 
-Seminar at GIPSA-Lab to the GAIA team on <i>Coupled tensor factorization for flow cytometry data analys</i> in Grenoble, France.
+Seminar at GIPSA-Lab to the GAIA team on <i>Coupled tensor factorization for flow cytometry data analysis</i> in Grenoble, France.

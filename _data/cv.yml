@@ -6,14 +6,14 @@
     - name: Date of Birth
       value: 22nd April 1997
     - name: Languages
-      value: French, English
+      value: French, English, Spanish
 
 - title: Education
   type: time_table
   contents:
     - title: PhD (ongoing)
       institution: "Estimation of high dimensional probability density functions with low rank-tensors models: Application to cancer cell characterization"
-      year: 2020-2023
+      year: 2020-2024
       description:
         - "Supervised by David Brie and Konstantin Usevich"
         - "Laboratory: CRAN, Department: BioSis, Team: SiMul"
