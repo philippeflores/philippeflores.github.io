@@ -8,11 +8,17 @@
     - name: Languages
       value: French, English, Spanish
 
-- title: Education
+- title: Academic research experience
   type: time_table
   contents:
-    - title: PhD (ongoing)
-      institution: "Estimation of high dimensional probability density functions with low rank-tensors models: Application to cancer cell characterization"
+    - title: Postdoc (ongoing)
+      institution: "Gravitational waves detection and bivariate signal processing"
+      year: 2024-2026
+      description: 
+        - "Laboratory: Gipsa-lab, Pôle GAIA"
+        - "CNRS, Grenoble, France"
+    - title: PhD
+      institution: "Estimation of high dimensional probability density functions with low-rank tensor models: application to flow cytometry."
       year: 2020-2024
       description:
         - "Supervised by David Brie and Konstantin Usevich"
@@ -25,7 +31,7 @@
         - "Major SICOM: Signal Information COmmunication and Multimedia"
         - "Grenoble, France"
 
-- title: Experience
+- title: Teaching
   type: time_table
   contents:
     - title: Temporary Teaching Position in Network and Telecommunications
