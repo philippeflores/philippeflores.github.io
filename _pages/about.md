@@ -23,7 +23,7 @@ Hello and Welcome !
 
 I am a Postdoc researcher at Gipsa-Lab since June 2024. I am a member of the GAIA research group, focusing on methods for signal processing with geometrical tools, information theory and statistics. My work at Gipsa consists in developping methods for gravitational waves detection using bivariate signal processing and polarization.
 
-I recently defend my PhD in April 2024 at CRAN in the SiMul Team that works on signal processing and multi-dimensional data science.
+I recently defended my PhD in April 2024 at CRAN in the SiMul Team that works on signal processing and multi-dimensional data science.
 My thesis subject lied on the Estimation of high dimensional probability density functions with low rank-tensors models with Application to cancer cell characterization.
 My research interests include signal processing, tensors algebra, bivariate signals, polarization.
 
