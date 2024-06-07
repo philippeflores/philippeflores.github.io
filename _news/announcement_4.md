@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2022-09-22 14:00:00-0400
+date: 2024-04-16 00:00:00-0000
 inline: true
 related_posts: true
 ---
 
-Presentation of the cytometry plateform for the HCERES comity evaluating the CRAN laboratory.
+PhD defense on tensors for pdf estimation for flow cytometry data analysis.
