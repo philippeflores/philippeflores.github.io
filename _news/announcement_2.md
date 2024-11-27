@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2022-09-22 14:00:00-0400
+date: 2023-03-10 14:00:00-0400
 inline: true
 related_posts: true
 ---
 
-Presentation of the cytometry plateform for the HCERES comity evaluating the CRAN laboratory.
+Seminar at the IECL institute for the INRIA team BIGS in Nancy, France.

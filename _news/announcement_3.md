@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2023-03-10 14:00:00-0400
+date: 2024-04-16 00:00:00-0000
 inline: true
 related_posts: true
 ---
 
-Seminar at the IECL institute for the INRIA team BIGS in Nancy, France.
+PhD defense on tensors for pdf estimation for flow cytometry data analysis.
