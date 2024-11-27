@@ -12,7 +12,7 @@
   type: time_table
   contents:
     - title: Postdoc (ongoing)
-      institution: "Gravitational waves detection and bivariate signal processing"
+      institution: "Non-linear and geometrical models for bivariate signals: application to polarized gravitational wave analysis."
       year: 2024-2026
       description: 
         - "Laboratory: Gipsa-lab, Pôle GAIA"
@@ -39,16 +39,20 @@
       year: 2021-2023
       description:
         - 128 hours of lectures
-        - Writing of an autonomous course to discover signal processing
+        - Writing of a lecture on signal processing discovery.
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Tensor Algebra
+    - title: Tensor decompositions for signal processing
       items: 
-        - Tensor-based approximation problems
+        - Low-rank approaches and tensor algebra
         - Identifiability analysis
-    - title: Flow cytometry data analysis.
+    - title: Bivariate signal processing
+      items: 
+        - Polarization and quaternion algebra
+        - Application to gravitational wave data analysis
+    - title: Flow cytometry data analysis
       items:
         - Development of a new tensor-based approach
         - Collaboration with medical doctors and biologists
@@ -58,9 +62,9 @@
   contents:
     - title: Coding Skills
       items: 
-        - Expertise in MATLAB
+        - Expertise in MATLAB and Python
         - Working a project with Git
-        - Scientific Writing with Tex
+        - Scientific writing with Tex
 
 - title: Other Interests
   type: list
