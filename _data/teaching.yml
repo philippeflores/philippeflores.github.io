@@ -1,5 +1,9 @@
-- title: SAÉ 1.03 "Découvrir un dispositif de transmission"
-  type: map
+- title: SAÉ 1.03 "Découvrir un dispositif de transmission" (60h of Practical Courses)
+  type: time_table
   contents:
-    - name: Full Name
-      value: Philippe Flores
+    - title: Discovering time-series signals, images and introduction to MATLAB
+      institution: IUT Nancy-Brabois, Université de Lorraine, Nancy
+      year: 2021-2023
+      description:
+        - First Activity : Reconstruction of a voice signal expressed in "verlan"
+        - Second Activity : Reconstruction of a distorted image
