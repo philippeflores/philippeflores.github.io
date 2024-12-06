@@ -1,9 +1,42 @@
-- title: SAÉ 1.03 "Découvrir un dispositif de transmission" (60h of Practical Courses)
+- title: SAÉ 1.03 "Découvrir un dispositif de transmission (BUT 1A -- L1) "
   type: time_table
   contents:
-    - title: Discovering time-series signals, images and introduction to MATLAB
+    - title: Discovering time-series signals, images and introduction to MATLAB (60h of Practical Courses)
       institution: IUT Nancy-Brabois, Université de Lorraine, Nancy
       year: 2021-2023
       description:
-        - "First Activity : Reconstruction of a voice signal expressed in 'verlan'"
-        - "Second Activity : Reconstruction of a distorted image"
+        - "Responsibility for this lecture : Subjects writing, animation of the lectures, project support, evaluation of assignments."
+        - "First Activity : Reconstruction of a voice signal expressed in 'verlan'."
+        - "Second Activity : Reconstruction of a distorted image."
+
+- title: "R 2.06 Numérisation de l'information  (BUT 2A -- L2)"
+  type: time_table
+  contents:
+    - title: "Information numerisation : study of telecommunication codings (36h of Practical courses)"
+      institution: IUT Nancy-Brabois, Université de Lorraine, Nancy
+      year: 2022-2023
+      description:
+        - "Responsibility for this lecture : animation of the lectures, evaluation of assignments."
+        - "Study of line codes like NRZ, Manchester code, etc."
+
+- title: "M3207C Transformées en Z et de Laplace (DUT 2A -- L2)" 
+  type: time_table
+  contents:
+    - title: "Z-Transform and Laplace transform studies (24h of Practical courses)"
+      institution: IUT Nancy-Brabois, Université de Lorraine, Nancy
+      year: 2021-2022
+      description:
+        - "Responsibility for this lecture : adaptation of subjects (from MUPAD to MATLAB), animation of the lectures, evaluation of assignments."
+        - "Study of Laplace transfrom : usual transforms, partial fraction decomposition, solving differential equations."
+        - "Study of Z-transfrom : usual transforms, solving discrete differential equations, numerical filtering study."
+
+- title: "R 1.13 Mathématiques du signal (BUT 1A -- L1)" 
+  type: time_table
+  contents:
+    - title: "Mathematiques for signal processing (8h of Practical courses)"
+      institution: IUT Nancy-Brabois, Université de Lorraine, Nancy
+      year: 2021-2022
+      description:
+        - "Responsibility for this lecture : animation of the lectures."
+        - "Searching local optima of the sinus cardinal function with the binary search method."
+
