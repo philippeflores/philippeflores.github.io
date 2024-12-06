@@ -1,0 +1,9 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Philippe Flores
+    - name: Date of Birth
+      value: 22nd April 1997
+    - name: Languages
+      value: French, English, Spanish
