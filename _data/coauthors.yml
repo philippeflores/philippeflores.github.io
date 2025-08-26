@@ -33,3 +33,15 @@
 "Flores":
   - firstname: ["Philippe", "P."]
     url: https://philippeflores.github.io
+
+"Flamant":
+  - firstname: ["Julien", "J."]
+    url: https://jflamant.github.io
+
+"Amblard":
+  - firstname: ["Pierre-Olivier", "P.-O."]
+    url: https://www.gipsa-lab.grenoble-inp.fr/~pierre-olivier.amblard/
+
+"Le Bihan":
+  - firstname: ["Nicolas", "N."]
+    url: https://nicolas-le-bihan.github.io
