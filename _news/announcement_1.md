@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2022-08-22 14:00:00-0400
+date: 2024-04-16 00:00:00-0000
 inline: true
 related_posts: true
 ---
 
-Visit of the Department of Mathematics at University of British Columbia (UBC) in Vancouver, Canada.
+PhD defense on tensors for PMF estimation for flow cytometry data analysis.

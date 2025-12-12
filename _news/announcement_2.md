@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-04-16 00:00:00-0000
+date: 2024-06-03 00:00:00-0000
 inline: true
 related_posts: true
 ---
 
-PhD defense on tensors for pdf estimation for flow cytometry data analysis.
+Start of a Postdoc on gravitational waves detection and bivariate signal processing at Gipsa-Lab in Grenoble.
