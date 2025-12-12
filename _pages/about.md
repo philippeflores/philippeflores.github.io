@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Gipsa-lab, Grenoble, France.
+subtitle: GIPSA-lab, Grenoble, France.
 
 profile:
   align: right
@@ -21,10 +21,9 @@ social: true  # includes social icons at the bottom of the page
 
 Hello and Welcome !
 
-I am a Postdoc researcher at Gipsa-Lab since June 2024. I am a member of the GAIA research group, focusing on methods for bivaritate signal processing with geometrical tools, information theory and statistics. My work at Gipsa consists in developping methods for gravitational waves detection using bivariate signal processing and polarization.
+I am a Postdoc researcher at GIPSA-Lab since June 2024. I am a member of the GAIA department, focusing on methods for bivaritate signal processing with geometrical tools, information theory and statistics. My work at GIPSA consists in developing methods applied to gravitational waves data analysis using bivariate signal processing and polarization.
 
-I recently defended my PhD in April 2024 at CRAN in the SiMul Team that works on signal processing and multi-dimensional data science.
-My thesis subject lied on the Estimation of high dimensional probability density functions with low rank-tensors models with Application to cancer cell characterization.
+I recently defended my PhD in April 2024 at CRAN in the SiMul team that works on signal processing and multi-dimensional data science.
+My thesis subject lied on the estimation of high dimensional probability density functions with low rank-tensors models with application to cancer cell characterization.
 
-My research interests include signal processing, tensor decompositions, bivariate signals, polarization.
-
+My research interests include signal processing, tensor decompositions, bivariate signals, low-rank models.
