@@ -11,7 +11,7 @@
 - title: Academic research experience
   type: time_table
   contents:
-    - title: Postdoc (ongoing)
+    - title: PostDoc (ongoing)
       institution: "Non-linear and geometrical models for bivariate signals: application to polarized gravitational wave analysis."
       year: 2024-2026
       description: 
@@ -55,7 +55,7 @@
         - Application to gravitational wave data analysis,
     - title: Flow cytometry data analysis.
       items:
-        - Development of a new tensor-based approach called CTFlowHD (see \url[fcm_ctflowhd]{https://github.com/philippeflores/fcm_ctflowhd}),
+        - Development of a new tensor-based approach called CTFlowHD (the code is available on my GitHub page),
         - Collaboration with medical doctors and biologists.
 
 - title: Services to the community
@@ -65,8 +65,8 @@
     - title: Reviewer for the Elsevier journal "Signal Processing"
     - title: Presentations to the HCERES committee
       items: 
-        - 2025: On the well-being of non-permanent staff at GIPSA-lab as CDL elected member,
-        - 2023: On a flow cytometry experiment platform at CRAN in collaboration with Stephanie Grandemange.
+        - "2025: On the well-being of non-permanent staff at GIPSA-lab as CDL elected member,"
+        - "2023: On a flow cytometry experiment platform at CRAN in collaboration with Stephanie Grandemange."
         
 - title: Transversal Skills
   type: nested_list
